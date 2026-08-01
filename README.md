@@ -1,35 +1,60 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+````md
+<div align="center">
 
-###
+# 👋 Hey, I'm Yuu-2k
 
-<p data-importer="text" align="left">My name is Yuu2k...</p>
+### FiveM Developer • Lua
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=FiveM+Developer;Lua+Only;Building+Scripts+and+Systems" alt="Typing SVG" />
 
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
-<p data-importer="text" align="left">✨ Creating bugs since 2020</p>
-
-###
-
-<h2 data-importer="text" align="left">I code with</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
+---
+
+## 🚀 About
+
+- 🎮 FiveM Developer
+- 🟦 Lua Specialist
+- ⚙️ Focused on performant and clean code
+- 🔧 Creating custom resources and gameplay systems
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuu-2k&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuu-2k&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## ⚡ Current Focus
+
+```lua
+local focus = {
+    platform = "FiveM",
+    language = "Lua",
+    goal = "Build clean, optimized and scalable resources."
+}
+````
+
+---
+
+<div align="center">
+
+*"Keep it clean. Keep it optimized."*
+
+</div>
+```
