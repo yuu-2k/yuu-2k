@@ -1,0 +1,12 @@
+# ghstats configuration. Every key except version is optional; the defaults apply when a key is missing.
+# Try themes, blocks and cards live, then paste the result here: https://wewesss.github.io/ghstats/en/builder/
+# All keys: https://wewesss.github.io/ghstats/en/guide/configuration/
+version: 1
+# render:
+#   blocks:
+#     - stats: [totals]
+#     - languages: [bars]
+#     - history: [views]
+#   theme:
+#     preset: noir
+#     accent: ice
