@@ -1,3 +1,4 @@
+
 # 👋 Yuu-2k
 
 > FiveM Developer — Lua
@@ -18,6 +19,7 @@ local developer = {
     language = "Lua",
     philosophy = "Simple. Clean. Efficient."
 }
+```
 
 <!-- ghstats:start -->
 <picture>
