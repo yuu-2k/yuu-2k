@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T16:30:44.221100587Z",
-  "collected_at": "2026-11-21T16:30:42.572615769Z",
+  "generated_at": "2026-11-22T11:19:52.907357055Z",
+  "collected_at": "2026-11-22T11:19:51.335075872Z",
   "login": "yuu-2k",
   "totals": {
     "repos": 4,
@@ -140,27 +140,27 @@
     },
     {
       "channel": "clones",
-      "count": 10,
+      "count": 64,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "clones",
-      "count": 10,
+      "count": 65,
       "window": "since:2026-10-28",
       "reliability": "observed"
     },
     {
       "channel": "views",
-      "count": 0,
+      "count": 14,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "views",
-      "count": 26,
+      "count": 40,
       "window": "since:2026-10-28",
       "reliability": "observed"
     },
@@ -278,14 +278,10 @@
         },
         {
           "start": "2026-11-16",
-          "count": 3
+          "count": 58
         }
       ],
       "days": [
-        {
-          "day": "2026-10-25",
-          "count": 0
-        },
         {
           "day": "2026-10-26",
           "count": 0
@@ -392,6 +388,10 @@
         },
         {
           "day": "2026-11-21",
+          "count": 55
+        },
+        {
+          "day": "2026-11-22",
           "count": 0
         }
       ]
@@ -501,14 +501,10 @@
         },
         {
           "start": "2026-11-16",
-          "count": 0
+          "count": 14
         }
       ],
       "days": [
-        {
-          "day": "2026-10-25",
-          "count": 0
-        },
         {
           "day": "2026-10-26",
           "count": 0
@@ -615,6 +611,10 @@
         },
         {
           "day": "2026-11-21",
+          "count": 14
+        },
+        {
+          "day": "2026-11-22",
           "count": 0
         }
       ]
