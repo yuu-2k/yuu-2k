@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T12:50:45.345722115Z",
-  "collected_at": "2026-11-25T12:50:43.077941639Z",
+  "generated_at": "2026-11-26T12:28:34.903441304Z",
+  "collected_at": "2026-11-26T12:28:32.322291554Z",
   "login": "yuu-2k",
   "totals": {
     "repos": 4,
@@ -140,14 +140,14 @@
     },
     {
       "channel": "clones",
-      "count": 119,
+      "count": 125,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "clones",
-      "count": 124,
+      "count": 131,
       "window": "since:2026-10-28",
       "reliability": "observed"
     },
@@ -278,14 +278,10 @@
         },
         {
           "start": "2026-11-23",
-          "count": 50
+          "count": 57
         }
       ],
       "days": [
-        {
-          "day": "2026-10-29",
-          "count": 0
-        },
         {
           "day": "2026-10-30",
           "count": 0
@@ -392,6 +388,10 @@
         },
         {
           "day": "2026-11-25",
+          "count": 7
+        },
+        {
+          "day": "2026-11-26",
           "count": 0
         }
       ]
@@ -506,10 +506,6 @@
       ],
       "days": [
         {
-          "day": "2026-10-29",
-          "count": 0
-        },
-        {
           "day": "2026-10-30",
           "count": 0
         },
@@ -615,6 +611,10 @@
         },
         {
           "day": "2026-11-25",
+          "count": 0
+        },
+        {
+          "day": "2026-11-26",
           "count": 0
         }
       ]
