@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T12:28:34.903441304Z",
-  "collected_at": "2026-11-26T12:28:32.322291554Z",
+  "generated_at": "2026-11-27T12:13:37.577949873Z",
+  "collected_at": "2026-11-27T12:13:35.926236573Z",
   "login": "yuu-2k",
   "totals": {
     "repos": 4,
@@ -140,27 +140,27 @@
     },
     {
       "channel": "clones",
-      "count": 125,
+      "count": 130,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "clones",
-      "count": 131,
+      "count": 137,
       "window": "since:2026-10-28",
       "reliability": "observed"
     },
     {
       "channel": "views",
-      "count": 14,
+      "count": 17,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "views",
-      "count": 40,
+      "count": 43,
       "window": "since:2026-10-28",
       "reliability": "observed"
     },
@@ -278,14 +278,10 @@
         },
         {
           "start": "2026-11-23",
-          "count": 57
+          "count": 63
         }
       ],
       "days": [
-        {
-          "day": "2026-10-30",
-          "count": 0
-        },
         {
           "day": "2026-10-31",
           "count": 0
@@ -392,6 +388,10 @@
         },
         {
           "day": "2026-11-26",
+          "count": 6
+        },
+        {
+          "day": "2026-11-27",
           "count": 0
         }
       ]
@@ -501,14 +501,10 @@
         },
         {
           "start": "2026-11-23",
-          "count": 0
+          "count": 3
         }
       ],
       "days": [
-        {
-          "day": "2026-10-30",
-          "count": 0
-        },
         {
           "day": "2026-10-31",
           "count": 0
@@ -615,6 +611,10 @@
         },
         {
           "day": "2026-11-26",
+          "count": 3
+        },
+        {
+          "day": "2026-11-27",
           "count": 0
         }
       ]
