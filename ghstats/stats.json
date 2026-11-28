@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T12:13:37.577949873Z",
-  "collected_at": "2026-11-27T12:13:35.926236573Z",
+  "generated_at": "2026-11-28T11:41:37.772662763Z",
+  "collected_at": "2026-11-28T11:41:36.168276814Z",
   "login": "yuu-2k",
   "totals": {
     "repos": 4,
@@ -140,27 +140,27 @@
     },
     {
       "channel": "clones",
-      "count": 130,
+      "count": 140,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "clones",
-      "count": 137,
+      "count": 147,
       "window": "since:2026-10-28",
       "reliability": "observed"
     },
     {
       "channel": "views",
-      "count": 17,
+      "count": 23,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "views",
-      "count": 43,
+      "count": 49,
       "window": "since:2026-10-28",
       "reliability": "observed"
     },
@@ -278,14 +278,10 @@
         },
         {
           "start": "2026-11-23",
-          "count": 63
+          "count": 73
         }
       ],
       "days": [
-        {
-          "day": "2026-10-31",
-          "count": 0
-        },
         {
           "day": "2026-11-01",
           "count": 0
@@ -392,6 +388,10 @@
         },
         {
           "day": "2026-11-27",
+          "count": 10
+        },
+        {
+          "day": "2026-11-28",
           "count": 0
         }
       ]
@@ -501,14 +501,10 @@
         },
         {
           "start": "2026-11-23",
-          "count": 3
+          "count": 9
         }
       ],
       "days": [
-        {
-          "day": "2026-10-31",
-          "count": 0
-        },
         {
           "day": "2026-11-01",
           "count": 0
@@ -615,6 +611,10 @@
         },
         {
           "day": "2026-11-27",
+          "count": 6
+        },
+        {
+          "day": "2026-11-28",
           "count": 0
         }
       ]
